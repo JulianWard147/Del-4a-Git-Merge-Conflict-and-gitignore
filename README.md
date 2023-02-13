@@ -6,7 +6,9 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
 #### Instructions
 
-1. Step one, clone this repo! Don't fork it, just clone it.
+0. Step zero, before you move on too far, Slack Julian your githup profile so he can invite you as a collaborator. You'll need him to do that before step 9.
+
+1. Step one, clone this repo. Don't fork it! Just clone it.
 
     >git clone https://github.com/JulianWard147/Del-4a-Git-Merge-Conflict-and-gitignore
 
