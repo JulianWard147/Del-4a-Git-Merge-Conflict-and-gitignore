@@ -1,6 +1,6 @@
 ## Git Merge Practice
 
-This is a practice repo set up for the 01092023 Data Science cohort to practice branches, Git merges, and merge conflicts.
+This is a practice repo set up for the Deloitte AI cohort 4a to practice branches, Git merges, and merge conflicts.
 
 This is at least partly a lesson in best practices, partly about what NOT to do, with a side note of resolving issues that do arise.
 
@@ -8,7 +8,7 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
 1. Step one, clone this repo! Don't fork it, just clone it.
 
-    >git clone https://github.com/JulianWard147/010923-Git-Merge-Conflict-and-gitignore
+    >git clone https://github.com/JulianWard147/Del-4a-Git-Merge-Conflict-and-gitignore
 
 2. Step two, make a new branch named after yourself. 
 
@@ -52,7 +52,7 @@ This is at least partly a lesson in best practices, partly about what NOT to do,
 
 12. Try to merge your branch into the main branch.
 
-13. (Eventuually!) Use the GitHub interface to resolve the merge conflict created in the main-notebook. *We will review this step together.*
+13. (Eventually!) Use the GitHub interface to resolve the merge conflict created in the main-notebook. *We will review this step together.*
 
 14. Check your work:
 - Your branch should appear as 'merged' in the Github interface.
